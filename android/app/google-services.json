@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "525966129684",
+    "project_id": "final-test-c79f5",
+    "storage_bucket": "final-test-c79f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525966129684:android:9d87ebadd047b0c35e8501",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525966129684-18067nesnjhp6aj074dmbg36flptqqir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICdkv763_2Q3KFRIH4GorqRTMEm2XBGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525966129684-18067nesnjhp6aj074dmbg36flptqqir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525966129684-fj24fk53f8kf50aakjigetfaqv70st34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFinalExam3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525966129684:android:88b1e17b7067c6915e8501",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_exam_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525966129684-0v2vnbnmj3rmm4jl87j25iavsmda86vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_final_exam_2",
+            "certificate_hash": "60b79b1ef17f40c187dab099ea0f127fdc2515c1"
+          }
+        },
+        {
+          "client_id": "525966129684-18067nesnjhp6aj074dmbg36flptqqir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICdkv763_2Q3KFRIH4GorqRTMEm2XBGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525966129684-18067nesnjhp6aj074dmbg36flptqqir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525966129684-fj24fk53f8kf50aakjigetfaqv70st34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFinalExam3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525966129684:android:f9667dbf7d740a055e8501",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_exam_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525966129684-bbichjcbdq6mn0crdk1ub3e449e2eq8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_final_exam_3",
+            "certificate_hash": "60b79b1ef17f40c187dab099ea0f127fdc2515c1"
+          }
+        },
+        {
+          "client_id": "525966129684-18067nesnjhp6aj074dmbg36flptqqir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICdkv763_2Q3KFRIH4GorqRTMEm2XBGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525966129684-18067nesnjhp6aj074dmbg36flptqqir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525966129684-fj24fk53f8kf50aakjigetfaqv70st34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFinalExam3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
